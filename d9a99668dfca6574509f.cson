@@ -1,0 +1,23 @@
+type: "MARKDOWN_NOTE"
+folder: "8234cd17214d04537565"
+title: "TMUX"
+content: '''
+  # TMUX
+  
+  ## Cheatsheet
+  
+  | Command | Effect |
+  |---  | ---|
+  | tmux| Start the session |
+  | `ctrl` `b` `"`| Split horizontally |
+  | `ctrl` `b` `%`| Split vertically   |
+  | `ctrl` `b` `arrow` | Switch pane   |
+  
+  ## Links
+  [Tutorial](http://lukaszwrobel.pl/blog/tmux-tutorial-split-terminal-windows-easily)
+'''
+tags: []
+isStarred: false
+isTrashed: false
+createdAt: "2017-08-11T04:14:02.569Z"
+updatedAt: "2017-08-11T04:25:03.890Z"

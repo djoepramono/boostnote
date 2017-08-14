@@ -1,0 +1,41 @@
+type: "MARKDOWN_NOTE"
+folder: "8234cd17214d04537565"
+title: "VIM"
+content: '''
+  # VIM
+  
+  ## Cheatsheet
+  
+  |Command | Description |
+  |---     | ---|
+  |:tabe   |new tab|
+  |:edit   |reload page, can be forced by adding `!`|
+  
+  Editing `init.vim`
+  
+  ## Fuzzy finding
+  
+  Either `ctrlp` or `fzf`. At this point fzf is better in performance
+  
+  To make sure the 
+  
+  - - Always open vim at the root of your project
+  - `:Files` is the same as `:FZF`
+  
+  ## Code completion
+  
+  - *vim* comes with code completion by default
+  - `ctrln` and `ctrlp` are you friends. They are basically a short for `next` and `previous`. Start typing and press them
+  
+  ## Key mapping
+  
+  ```bash
+  map f :FZF
+  map 
+  ```
+'''
+tags: []
+isStarred: false
+isTrashed: false
+createdAt: "2017-08-11T03:58:56.132Z"
+updatedAt: "2017-08-11T04:55:41.912Z"
